@@ -80,28 +80,12 @@ Timeout Issue
 
 Connection timeout from client
 
-📸 Screenshots (Add here)
+📸 Screenshots
 
-Add screenshots of your UI after running the app
+<img width="680" height="851" alt="image" src="https://github.com/user-attachments/assets/4d92279f-ba80-4bd1-b972-4cdd0a8d05c3" />
 
-💼 Resume Impact
 
-Project: F5 AI Troubleshooter
 
-Built an AI-powered troubleshooting assistant using Python and Streamlit
-Integrated local LLM (Ollama) for intelligent analysis
-Implemented hybrid logic (AI + fallback) for reliability
-Added automation simulation with command suggestions
-🔮 Future Enhancements
-🔗 Real F5 device integration (API / SSH)
-💬 Chat-based interface
-📊 Dashboard & analytics
-☁️ Cloud deployment
-🙌 Key Learnings
-Prompt engineering
-AI + networking integration
-UI development with Streamlit
-Automation mindset
 ⭐ Support
 
 If you found this useful, consider giving a ⭐ on GitHub!
