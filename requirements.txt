@@ -1,0 +1,4 @@
+Python
+Streamlit
+Ollama (Local LLM)
+Requests
