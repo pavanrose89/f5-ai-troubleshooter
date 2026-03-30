@@ -80,10 +80,11 @@ Timeout Issue
 
 Connection timeout from client
 
-📸 Screenshots
+## 📸 Screenshots
 
-<img width="680" height="851" alt="image" src="https://github.com/user-attachments/assets/4d92279f-ba80-4bd1-b972-4cdd0a8d05c3" />
+![UI](images/ui.png)
 
+![Result](images/Result.png)
 
 
 ⭐ Support
