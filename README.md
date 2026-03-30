@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![AI](https://img.shields.io/badge/AI-Ollama-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
 # 🔧 F5 AI Troubleshooter
 
 > AI-powered troubleshooting assistant for F5 / Network Engineers  
