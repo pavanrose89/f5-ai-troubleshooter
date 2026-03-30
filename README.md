@@ -82,7 +82,7 @@ Connection timeout from client
 
 ## 📸 Screenshots
 
-images/UI.png
+![UI](images/UI.png)
 
 ![Result](images/Result.png)
 
