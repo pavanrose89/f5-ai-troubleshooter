@@ -82,9 +82,9 @@ Connection timeout from client
 
 ## 📸 Screenshots
 
-![UI](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/images/UI.png)
+![UI](https://raw.githubusercontent.com/pavanrose89/f5-ai-troubleshooter/main/images/UI.png)
 
-![Result](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/images/Result.png)
+![Result](https://raw.githubusercontent.com/pavanrose89/f5-ai-troubleshooter/main/images/Result.png)
 
 
 ⭐ Support
