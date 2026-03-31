@@ -1,0 +1,10 @@
+{
+  "default_model": "llama3:latest",
+  "available_models": [
+    "Basic Analysis",
+    "Pool Member Check",
+    "VIP Status Check",
+    "Health Monitor Check"
+  ],
+  "available_ollama_models": ["llama3:latest"]
+}
